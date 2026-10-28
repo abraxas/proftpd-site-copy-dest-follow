@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/proftpd-site-copy-dest-follow">proftpd-site-copy-dest-follow</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/proftpd-site-copy-dest-follow"><strong>https://abraxaslabs.tech/research/proftpd-site-copy-dest-follow</strong></a>
+</p>
+
 
 # proftpd-site-copy-dest-follow
 
